@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+  Main.cpp
+  Generating Code...
+a:\tutorial\microsoft visual studio\cows n bulls\section_02\bullcowgame\main.cpp(102): warning C4715: 'GetValidGuess': not all control paths return a value
+  BullCowGame.vcxproj -> A:\Tutorial\Microsoft Visual Studio\Cows N Bulls\Section_02\Debug\BullCowGame.exe
